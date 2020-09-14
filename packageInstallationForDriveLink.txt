@@ -1,0 +1,11 @@
+https://github.com/ivanvermeyen/laravel-google-drive-demo
+
+create client Id and secret Id from google
+https://github.com/ivanvermeyen/laravel-google-drive-demo/blob/master/README/1-getting-your-dlient-id-and-secret.md
+
+get google refresh token
+https://github.com/ivanvermeyen/laravel-google-drive-demo/blob/master/README/2-getting-your-refresh-token.md
+
+get root folder Id
+
+https://github.com/ivanvermeyen/laravel-google-drive-demo/blob/master/README/3-getting-your-root-folder-id.md
